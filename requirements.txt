@@ -1,0 +1,2 @@
+jira
+pre-commit
